@@ -7,7 +7,7 @@ print(type(a))
 print("=======================")
 a="somnadh "
 b=" kinthada"
-print("concaatination==>",a+b)
+print("concatenation==>",a+b)
 print(type(a))
 print("=======================")
 

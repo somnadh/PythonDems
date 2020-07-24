@@ -5,7 +5,7 @@ def ball_collide(x1,y1,r1,x2,y2,r2):
  center=dist/2;
  print("Collision point",center);
  r=r1+r2;
- print("Sum of radious",r)
+ print("Sum of radius",r)
  if(center<=r):
     print("They are Colliding")
     return True;
