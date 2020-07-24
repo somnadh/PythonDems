@@ -10,7 +10,7 @@ print(a**2)
 print(a%b)
 """modulo gives reminder"""
 print("===================================")
-print("Comparision operators")
+print("Comparison operators")
 print (a>b)
 print (a<b)
 print (a>=b)
@@ -22,7 +22,7 @@ print("Assignment operators")
 c=a+b
 print (c)
 a+=b
-"""like this we have a-=b,a*=b,...a//=b all arthematic operators """
+"""like this we have a-=b,a*=b,...a//=b all arithmetic operators """
 print(a)
 print("===================================")
 print("Bitwise operators")

@@ -1,4 +1,4 @@
-a=int(input("enter a nubmer"))
+a=int(input("enter a number"))
 big=0
 rem=0
 while(a>0):

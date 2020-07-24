@@ -7,6 +7,6 @@ while(a>i):
         perfect=perfect+i
     i+=1
 if(temp==perfect):
-    print(temp,"pefrfect number")
+    print(temp,"perfect number")
 else:
     print(temp,"not perfect number")

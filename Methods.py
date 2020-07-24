@@ -80,7 +80,7 @@ if(CheckPrime(a)==True):
     print("prime number")
 else:
     print("Not prime number")
-print(CheckEO(int(input("enter any num to check eveen or odd"))))
+print(CheckEO(int(input("enter any num to check even or odd"))))
 print(CheckPalindrome(int(input("enter any num to check palindrome or not"))))
 
 print(CheckArmstrong(int(input("enter any num to check armstrong or not"))))
