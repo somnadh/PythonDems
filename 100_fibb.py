@@ -1,4 +1,6 @@
-n=int(input("how many fibonacci term do u want"))
+#programme to print required fibonacci series
+
+n=int(input("how many fibonacci term do u want")) 
 a=0
 b=1
 c=a+b
