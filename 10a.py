@@ -1,3 +1,4 @@
+#programme to print cummulative product
 def product(l):
     p =1
     for i in l:
